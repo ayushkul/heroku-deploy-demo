@@ -3,5 +3,5 @@
  */
 
 module.exports = (app) => {
-  app.get("/", (req, res) => res.send("The Indian Dev"));
+  app.get("/", (req, res) => res.send("The Indian Dev from Heroku!"));
 };
