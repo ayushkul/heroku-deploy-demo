@@ -1,0 +1,17 @@
+{
+  "name": "node-deploy-demo",
+  "version": "1.0.0",
+  "description": "Deploy Demo of a NodeJS application using Heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "forever node ./server.js",
+    "start": "node server.js"
+  },
+  "author": "Leewayhertz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "forever": "^1.0.0"
+  }
+}
