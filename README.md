@@ -1,4 +1,4 @@
-# node-deploy-demo #
+# heroku-deploy-demo #
 
 ### What is this repository for? ###
 
